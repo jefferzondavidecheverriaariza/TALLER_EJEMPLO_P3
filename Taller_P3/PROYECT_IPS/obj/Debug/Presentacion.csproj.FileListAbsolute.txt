@@ -1,0 +1,8 @@
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\PROYECT_IPS\bin\Debug\PROYECT_IPS.exe.config
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\PROYECT_IPS\bin\Debug\PROYECT_IPS.exe
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\PROYECT_IPS\bin\Debug\PROYECT_IPS.pdb
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\PROYECT_IPS\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\PROYECT_IPS\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\PROYECT_IPS\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\PROYECT_IPS\obj\Debug\PROYECT_IPS.exe
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\PROYECT_IPS\obj\Debug\PROYECT_IPS.pdb

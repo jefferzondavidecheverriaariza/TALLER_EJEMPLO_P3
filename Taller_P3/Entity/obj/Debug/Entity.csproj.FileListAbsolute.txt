@@ -1,0 +1,6 @@
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\Entity\bin\Debug\Entity.dll
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\Entity\bin\Debug\Entity.pdb
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\Entity\obj\Debug\Entity.dll
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\Entity\obj\Debug\Entity.pdb

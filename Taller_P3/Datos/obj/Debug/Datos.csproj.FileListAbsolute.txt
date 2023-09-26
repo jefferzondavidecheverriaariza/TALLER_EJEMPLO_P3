@@ -1,0 +1,6 @@
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\Datos\bin\Debug\Datos.dll
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\Datos\bin\Debug\Datos.pdb
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\Datos\obj\Debug\Datos.dll
+C:\Users\JYDEAM\Desktop\Taller_P3-main\Taller_P3-main\Datos\obj\Debug\Datos.pdb
